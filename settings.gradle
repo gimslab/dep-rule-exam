@@ -1,0 +1,4 @@
+rootProject.name = 'dep-rule-exam'
+include 'dep-rule-exam-interfaces'
+include 'dep-rule-exam-domain'
+include 'dep-rule-exam-jpa'
